@@ -8,18 +8,16 @@
 
 <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=18&duration=4000&pause=1000&color=F7F7EF&center=true&vCenter=true&width=300&lines====>+john+:+make+a+''readme''." alt="test test tets"/> </p> 
 
-<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=14&duration=1&pause=999999&color=BDBCB4&center=true&vCenter=true&width=300&lines=7teen+,%20w2i+-%20mostly+offtab+.&repeat=false" alt="idknruj test test"/> 
+<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=14&duration=1&pause=999999&color=BDBCB4&center=true&vCenter=true&width=300&lines=-14+dni+,%20w2i+-%20mostly+offtab+.&repeat=false" alt="idknruj test test"/> 
 </p>
 
 
 <p align="center">
   <a href="https://soundcloud.com/pcmus/bobby">
-    <img src="https://cdn4.pitchfork.com/blog/485/8155ff68.png" width="180" alt="bobby — gfoty"/>
+    <img src="https://cdn4.pitchfork.com/blog/485/8155ff68.png" width="180" alt="i guess it doesn't really matter."/>
   </a>
 </p>
-<p align="center">
-  <sub>ㅤ ׅ 𝄂𝄚𝅦𝄚𝄞𝅄ㅤ</sub>
-</p>
+
 
 <p align="center">
   <img
